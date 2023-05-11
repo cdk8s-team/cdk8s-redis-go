@@ -1,3 +1,4 @@
+// Basic implementation of a Redis construct for cdk8s.
 package cdk8sredis
 
 import (
